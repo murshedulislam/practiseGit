@@ -1,0 +1,39 @@
+D:\Shahadat\AssignedWork\WorkWithMamunSir06242019\Priority3\SuperShopAppPractice3\SuperShopAppPractice3\bin\Debug\SuperShopAppPractice3.exe.config
+D:\Shahadat\AssignedWork\WorkWithMamunSir06242019\Priority3\SuperShopAppPractice3\SuperShopAppPractice3\bin\Debug\SuperShopAppPractice3.exe
+D:\Shahadat\AssignedWork\WorkWithMamunSir06242019\Priority3\SuperShopAppPractice3\SuperShopAppPractice3\bin\Debug\SuperShopAppPractice3.pdb
+D:\Shahadat\AssignedWork\WorkWithMamunSir06242019\Priority3\SuperShopAppPractice3\SuperShopAppPractice3\obj\Debug\SuperShopAppPractice3.Properties.Resources.resources
+D:\Shahadat\AssignedWork\WorkWithMamunSir06242019\Priority3\SuperShopAppPractice3\SuperShopAppPractice3\obj\Debug\SuperShopAppPractice3.SuperShopUi.resources
+D:\Shahadat\AssignedWork\WorkWithMamunSir06242019\Priority3\SuperShopAppPractice3\SuperShopAppPractice3\obj\Debug\SuperShopAppPractice3.csproj.GenerateResource.cache
+D:\Shahadat\AssignedWork\WorkWithMamunSir06242019\Priority3\SuperShopAppPractice3\SuperShopAppPractice3\obj\Debug\SuperShopAppPractice3.csproj.CoreCompileInputs.cache
+D:\Shahadat\AssignedWork\WorkWithMamunSir06242019\Priority3\SuperShopAppPractice3\SuperShopAppPractice3\obj\Debug\SuperShopAppPractice3.exe
+D:\Shahadat\AssignedWork\WorkWithMamunSir06242019\Priority3\SuperShopAppPractice3\SuperShopAppPractice3\obj\Debug\SuperShopAppPractice3.pdb
+C:\Phase 2\Batch 3\Day15\Association Relationship\Association Relationship\SuperShopAppPractice3\SuperShopAppPractice3\bin\Debug\SuperShopAppPractice3.exe.config
+C:\Phase 2\Batch 3\Day15\Association Relationship\Association Relationship\SuperShopAppPractice3\SuperShopAppPractice3\bin\Debug\SuperShopAppPractice3.exe
+C:\Phase 2\Batch 3\Day15\Association Relationship\Association Relationship\SuperShopAppPractice3\SuperShopAppPractice3\bin\Debug\SuperShopAppPractice3.pdb
+C:\Phase 2\Batch 3\Day15\Association Relationship\Association Relationship\SuperShopAppPractice3\SuperShopAppPractice3\obj\Debug\SuperShopAppPractice3.csprojAssemblyReference.cache
+C:\Phase 2\Batch 3\Day15\Association Relationship\Association Relationship\SuperShopAppPractice3\SuperShopAppPractice3\obj\Debug\SuperShopAppPractice3.Properties.Resources.resources
+C:\Phase 2\Batch 3\Day15\Association Relationship\Association Relationship\SuperShopAppPractice3\SuperShopAppPractice3\obj\Debug\SuperShopAppPractice3.SuperShopUi.resources
+C:\Phase 2\Batch 3\Day15\Association Relationship\Association Relationship\SuperShopAppPractice3\SuperShopAppPractice3\obj\Debug\SuperShopAppPractice3.csproj.GenerateResource.cache
+C:\Phase 2\Batch 3\Day15\Association Relationship\Association Relationship\SuperShopAppPractice3\SuperShopAppPractice3\obj\Debug\SuperShopAppPractice3.csproj.CoreCompileInputs.cache
+C:\Phase 2\Batch 3\Day15\Association Relationship\Association Relationship\SuperShopAppPractice3\SuperShopAppPractice3\obj\Debug\SuperShopAppPractice3.exe
+C:\Phase 2\Batch 3\Day15\Association Relationship\Association Relationship\SuperShopAppPractice3\SuperShopAppPractice3\obj\Debug\SuperShopAppPractice3.pdb
+C:\Users\Murshedul Islam\Documents\My App\Association Relationship\Practices\SuperShopAppPractice3\SuperShopAppPractice3\bin\Debug\SuperShopAppPractice3.exe.config
+C:\Users\Murshedul Islam\Documents\My App\Association Relationship\Practices\SuperShopAppPractice3\SuperShopAppPractice3\bin\Debug\SuperShopAppPractice3.exe
+C:\Users\Murshedul Islam\Documents\My App\Association Relationship\Practices\SuperShopAppPractice3\SuperShopAppPractice3\bin\Debug\SuperShopAppPractice3.pdb
+C:\Users\Murshedul Islam\Documents\My App\Association Relationship\Practices\SuperShopAppPractice3\SuperShopAppPractice3\obj\Debug\SuperShopAppPractice3.csprojAssemblyReference.cache
+C:\Users\Murshedul Islam\Documents\My App\Association Relationship\Practices\SuperShopAppPractice3\SuperShopAppPractice3\obj\Debug\SuperShopAppPractice3.Properties.Resources.resources
+C:\Users\Murshedul Islam\Documents\My App\Association Relationship\Practices\SuperShopAppPractice3\SuperShopAppPractice3\obj\Debug\SuperShopAppPractice3.SuperShopUi.resources
+C:\Users\Murshedul Islam\Documents\My App\Association Relationship\Practices\SuperShopAppPractice3\SuperShopAppPractice3\obj\Debug\SuperShopAppPractice3.csproj.GenerateResource.cache
+C:\Users\Murshedul Islam\Documents\My App\Association Relationship\Practices\SuperShopAppPractice3\SuperShopAppPractice3\obj\Debug\SuperShopAppPractice3.csproj.CoreCompileInputs.cache
+C:\Users\Murshedul Islam\Documents\My App\Association Relationship\Practices\SuperShopAppPractice3\SuperShopAppPractice3\obj\Debug\SuperShopAppPractice3.exe
+C:\Users\Murshedul Islam\Documents\My App\Association Relationship\Practices\SuperShopAppPractice3\SuperShopAppPractice3\obj\Debug\SuperShopAppPractice3.pdb
+D:\251079\batch4\SuperShopAppPractice3\SuperShopAppPractice3\bin\Debug\SuperShopAppPractice3.exe.config
+D:\251079\batch4\SuperShopAppPractice3\SuperShopAppPractice3\bin\Debug\SuperShopAppPractice3.exe
+D:\251079\batch4\SuperShopAppPractice3\SuperShopAppPractice3\bin\Debug\SuperShopAppPractice3.pdb
+D:\251079\batch4\SuperShopAppPractice3\SuperShopAppPractice3\obj\Debug\SuperShopAppPractice3.csprojAssemblyReference.cache
+D:\251079\batch4\SuperShopAppPractice3\SuperShopAppPractice3\obj\Debug\SuperShopAppPractice3.Properties.Resources.resources
+D:\251079\batch4\SuperShopAppPractice3\SuperShopAppPractice3\obj\Debug\SuperShopAppPractice3.SuperShopUi.resources
+D:\251079\batch4\SuperShopAppPractice3\SuperShopAppPractice3\obj\Debug\SuperShopAppPractice3.csproj.GenerateResource.cache
+D:\251079\batch4\SuperShopAppPractice3\SuperShopAppPractice3\obj\Debug\SuperShopAppPractice3.csproj.CoreCompileInputs.cache
+D:\251079\batch4\SuperShopAppPractice3\SuperShopAppPractice3\obj\Debug\SuperShopAppPractice3.exe
+D:\251079\batch4\SuperShopAppPractice3\SuperShopAppPractice3\obj\Debug\SuperShopAppPractice3.pdb
