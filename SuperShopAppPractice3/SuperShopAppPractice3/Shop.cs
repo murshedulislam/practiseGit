@@ -17,26 +17,38 @@ namespace SuperShopAppPractice3
 
         private List<Product> products;
 
-        public bool AddProduct(Product product)
+        public void AddProduct(Product product)
         {
-            int i = 0;
-            while (true)
+            int check = 0;
+
+
+
+            for (int i = 0; i < products.Count; i++)
             {
                 if (products.Count == 0)//& products[i].Id == product.Id
                 {
                     products.Add(product);
+                    check++;
+                    break;
+
+                }
+                if (products[i].Id == product.Id)
+                {
                     products[i].Quantity = products[i].Quantity + product.Quantity;
                     i++;
-                }
-                if()
-                else
-                {
-                    products.Add(product);
+                    check++;
                     break;
+
                 }
+
             }
 
-            return true;
+
+
+            if (check == 0)
+            {
+                products.Add(product);
+            }
 
         }
 
