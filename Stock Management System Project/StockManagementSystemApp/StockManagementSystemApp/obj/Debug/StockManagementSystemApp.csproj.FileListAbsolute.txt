@@ -14,3 +14,20 @@ C:\Users\Murshedul Islam\Documents\My App\StockManagementSystemApp\StockManageme
 C:\Users\Murshedul Islam\Documents\My App\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.SearchSummary.resources
 C:\Users\Murshedul Islam\Documents\My App\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.SearchView.resources
 C:\Users\Murshedul Islam\Documents\My App\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.StockIn.resources
+D:\251079\practiseGit\Stock Management System Project\StockManagementSystemApp\StockManagementSystemApp\bin\Debug\StockManagementSystemApp.exe.config
+D:\251079\practiseGit\Stock Management System Project\StockManagementSystemApp\StockManagementSystemApp\bin\Debug\StockManagementSystemApp.exe
+D:\251079\practiseGit\Stock Management System Project\StockManagementSystemApp\StockManagementSystemApp\bin\Debug\StockManagementSystemApp.pdb
+D:\251079\practiseGit\Stock Management System Project\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.csprojAssemblyReference.cache
+D:\251079\practiseGit\Stock Management System Project\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.CategorySetup.resources
+D:\251079\practiseGit\Stock Management System Project\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.CompanySetup.resources
+D:\251079\practiseGit\Stock Management System Project\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.Home.resources
+D:\251079\practiseGit\Stock Management System Project\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.ItemSetup.resources
+D:\251079\practiseGit\Stock Management System Project\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.Properties.Resources.resources
+D:\251079\practiseGit\Stock Management System Project\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.SearchSummary.resources
+D:\251079\practiseGit\Stock Management System Project\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.SearchView.resources
+D:\251079\practiseGit\Stock Management System Project\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.StockIn.resources
+D:\251079\practiseGit\Stock Management System Project\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.StockOut.resources
+D:\251079\practiseGit\Stock Management System Project\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.csproj.GenerateResource.cache
+D:\251079\practiseGit\Stock Management System Project\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.csproj.CoreCompileInputs.cache
+D:\251079\practiseGit\Stock Management System Project\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.exe
+D:\251079\practiseGit\Stock Management System Project\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.pdb

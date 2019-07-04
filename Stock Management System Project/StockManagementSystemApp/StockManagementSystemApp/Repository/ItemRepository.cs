@@ -11,7 +11,7 @@ namespace StockManagementSystemApp.Repository
 {
     class ItemRepository
     {
-        string connectionString = @"Server=MURSHEDULISLAM; Database=FirstDB; Integrated Security=True";
+        string connectionString = @"Server=PC-301-24\SQLEXPRESS; Database=FirstDB; Integrated Security=True";
         SqlConnection sqlConnection;
 
         private string commandString;

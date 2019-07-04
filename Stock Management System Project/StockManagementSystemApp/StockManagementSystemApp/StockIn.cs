@@ -18,7 +18,7 @@ namespace StockManagementSystemApp
         Category category = new Category();
         Item item = new Item();
         StockInManager _stockInManager = new StockInManager();
-
+        private int quantity;
         StockIN stockIN = new StockIN();
 
         List<string> categories = new List<string>();
@@ -57,12 +57,22 @@ namespace StockManagementSystemApp
             }
             if (SaveButton.Text == "Update")
             {
+                int isExecuted;
                 stockIN.Amount = Convert.ToInt32(stockQuantityTextBox.Text);
+                item.AvailableQuantity = item.AvailableQuantity - quantity;
                 item.AvailableQuantity = item.AvailableQuantity + stockIN.Amount;
-                int isExecuted = _stockInManager.updateStockInAmount(stockIN);
-                if (isExecuted > 0)
+                if (item.AvailableQuantity > 0)
                 {
-                    MessageBox.Show("Successfully Updated Amount in stockIn");
+                    isExecuted = _stockInManager.updateStockInAmount(stockIN);
+                    if (isExecuted > 0)
+                    {
+                        MessageBox.Show("Successfully Updated Amount in stockIn");
+                    }
+                }
+                else
+                {
+                    MessageBox.Show("Available Quantity cannot be less than 0.");
+                    return;
                 }
 
                 isExecuted = _stockInManager.updateItemAvailableQuantity(item);
@@ -148,7 +158,8 @@ namespace StockManagementSystemApp
 
             stockIN.ID = Convert.ToInt32(selectedRow.Cells[1].Value);
             stockQuantityTextBox.Text = _stockInManager.findQuantity(stockIN);
-            item.AvailableQuantity = item.AvailableQuantity - Convert.ToInt32(_stockInManager.findQuantity(stockIN));
+            quantity = Convert.ToInt32(_stockInManager.findQuantity(stockIN));
+            //item.AvailableQuantity = item.AvailableQuantity - Convert.ToInt32(_stockInManager.findQuantity(stockIN));
             
 
             SaveButton.Text = "Update";

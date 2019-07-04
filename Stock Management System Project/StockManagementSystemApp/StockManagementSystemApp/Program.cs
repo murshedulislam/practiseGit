@@ -22,7 +22,8 @@ namespace StockManagementSystemApp
             //Application.Run(new StockOut());
             //Application.Run(new SearchSummary());
             //Application.Run(new SearchView());
-            Application.Run(new StockIn());
+            //Application.Run(new StockIn());
+            Application.Run(new Home());
         }
     }
 }
